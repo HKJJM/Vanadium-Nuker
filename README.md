@@ -17,9 +17,8 @@ It commemorates the author's retirement from active Discord development, serving
 - Core Version: 2.0337492
 
 ## How to Download?
-go to rar file and click on dowmload!
+go to zip file and click on dowmload!
 
-https://github.com/user-attachments/assets/3fbd1c9a-caf2-4f44-badd-4781642cf371
 
 
 
