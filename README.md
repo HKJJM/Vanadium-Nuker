@@ -19,6 +19,10 @@ It commemorates the author's retirement from active Discord development, serving
 ## How to Download?
 go to zip file and click on dowmload!
 
+https://github.com/user-attachments/assets/7196ef7f-87bd-4d12-a39f-f25f56dac7a2
+
+
+
 
 
 
