@@ -1,7 +1,19 @@
-# Vanadium
-I created this tool as a New Year's achievement (2026) and also to mark my retirement from the Discord world. This tool was developed using Python.
-on the date 2026 2/20 from iraq (mousl)
- # Main Developer : RussianHarvey
- # Developer : Tobakk
- # discord username: @russianharvey & @_ux8
+Vanadium
+
+Vanadium was created as a personal milestone project for New Year 2026.
+This project marks my retirement from the Discord community.
+Developed using Python.
+
+📅 Release Date: February 20, 2026
+📍 Location: Mosul, Iraq
+
+# 
+
+# Developers
+
+Main Developer: RussianHarvey
+
+Developer: Tobakk
+
+Discord Usernames: @russianharvey & @_ux8
  
