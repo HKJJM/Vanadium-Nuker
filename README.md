@@ -6,9 +6,8 @@
 ![License](https://img.shields.io/badge/license-MIT-red)
 
 > **Made by : RussianHarvey & Tobakk (0x90)**
-> **Discordusername: russianharvey & _ux8**
-
 ---
+> **Discordusername: russianharvey & _ux8**
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
