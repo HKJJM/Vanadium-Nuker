@@ -7,9 +7,6 @@
 ![License](https://img.shields.io/badge/license-MIT-red)
 
 <img width="1472" height="704" alt="vanadiumnic" src="https://github.com/user-attachments/assets/b7e6411a-858c-4bad-9b4e-150934df126a" />
-<img width="1472" height="704" alt="vanadiumnic" src="https://github.com/user-attachments/assets/b7e6411a-858c-4bad-9b4e-150934df126a" />
-
-
 > **Made by : RussianHarvey & Tobakk (0x90)**
 ---
 > **DiscordUsername: russianharvey & _ux8**
