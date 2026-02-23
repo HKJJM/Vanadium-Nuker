@@ -1,42 +1,90 @@
-# Vanadium
+# ⚡ Vanadium Nuker V8 - Discord Server Nuker Tool
 
-Vanadium is a Python-based project developed as a personal milestone in early 2026. 
-It commemorates the author's retirement from active Discord development, serving as a final experiment in Python automation and Discord interactions.
+![Version](https://img.shields.io/badge/version-8.00-blue)
+![Python](https://img.shields.io/badge/python-3.8%2B-green)
+![Discord](https://img.shields.io/badge/discord.py-2.0%2B-purple)
+![License](https://img.shields.io/badge/license-MIT-red)
 
-## 🛠 Features
-- Fully scripted Discord bot interactions
-- Multi-threaded operations
-- Dynamic role and channel management
-- Supports advanced member handling
-- Easy configuration and setup
+> **Made by : RussianHarvey & Tobakk (0x90)**
 
-## 📅 Release Information
-- Release Date: 20 February 2026
-- Location: Mosul, Iraq
-- Version: 2.0.0.33
-- Core Version: 2.0337492
+---
 
-## How to Download?
-go to zip file and click on dowmload!
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Usage Guide](#-usage-guide)
+- [Menu Options](#-menu-options)
+- [⚠️ Important Notes](#️-important-notes)
+- [Disclaimer](#-disclaimer)
+- [Credits](#-credits)
 
-https://github.com/user-attachments/assets/7196ef7f-87bd-4d12-a39f-f25f56dac7a2
+---
 
+## 🔍 Overview
 
+**Vanadium Nuker V8** is a powerful Discord server management and automation tool designed for stress testing, server administration, and security auditing purposes. With 25+ advanced features and multi-threading support, it provides comprehensive control over Discord servers.
 
+**System Status**: `ONLINE`
+**Core Version**: `2.3`
+**Max Threads**: `500`
 
+---
 
+## ✨ Features
 
-## 👥 Developers
-- **Main Developer**: RussianHarvey  
-- **Developer**: Tobakk  
-- **Discord**: @russianharvey & @_ux8
+### 🚨 **Member Management**
+- Ban all members instantly
+- Kick all members
+- Unban all banned users
+- Give admin privileges to all members
+- Rename all members
 
-## ⚠️ Note
-This project was developed for educational and experimental purposes only.  
-Use responsibly and respect Discord's Terms of Service.
+### 📁 **Channel Operations**
+- Create massive text channels
+- Create voice channels
+- Create categories
+- Delete all channels
+- Rename all channels
+- Create extra categories
 
-## 🙏 Credits
-- Thanks to the Python community for support and inspiration  
-- Special thanks to contributors who tested and provided feedback
-- We are not responsible for any misuse
-<img width="1456" height="698" alt="Screenshot 2026-02-20 073053" src="https://github.com/user-attachments/assets/b8858dd2-074c-4f0c-b400-0f5d7a0f3faa" />
+### 🎭 **Role Management**
+- Create new roles (random colors)
+- Delete all roles
+
+### 💬 **Messaging Features**
+- Mass ping channels (with webhook support)
+- Mass DM all members
+
+### 🛡️ **Server Control**
+- Kill soundboard
+- Delete all invites
+- Pause all invites
+- Change server name
+- Disable Auto-Mod
+- Disable/Enable Community
+
+### 🗑️ **Content Wiping**
+- Delete all emojis
+- Delete all stickers
+- Delete vanity URL
+
+### 💣 **Nuclear Option**
+- `[0x90]` Complete server nuke (executes all destructive features)
+
+---
+
+## ⚙️ Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- Discord Bot Token with appropriate permissions
+- Git (optional)
+
+### Setup
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/vanadium-nuker.git
+cd vanadium-nuker
