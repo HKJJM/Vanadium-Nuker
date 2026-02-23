@@ -30,8 +30,6 @@
 **Vanadium Nuker V12** is a powerful Discord server management and automation tool designed for stress testing, server administration, and security auditing purposes. With 25+ advanced features and multi-threading support, it provides comprehensive control over Discord servers.
 
 **System Status**: `ONLINE`
-**Core Version**: `2.3`
-**Max Threads**: `500`
 
 ---
 
