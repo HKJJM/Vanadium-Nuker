@@ -1,7 +1,7 @@
 
 # ⚡ Vanadium Nuker V12 - Discord Server Tool
 
-![Version](https://img.shields.io/badge/version-8.00-blue)
+![Version](https://img.shields.io/badge/version-12.00-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
 ![Discord](https://img.shields.io/badge/discord.py-2.0%2B-purple)
 ![License](https://img.shields.io/badge/license-MIT-red)
