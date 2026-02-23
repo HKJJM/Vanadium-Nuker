@@ -1,5 +1,4 @@
-<img width="1440" height="704" alt="Vanadium" src="https://github.com/user-attachments/assets/8faad0d5-d13a-4d50-997e-4d5446db05e8" />
-<img width="1440" height="704" alt="Vanadium" src="https://github.com/user-attachments/assets/8faad0d5-d13a-4d50-997e-4d5446db05e8" />
+
 # ⚡ Vanadium Nuker V12 - Discord Server Tool
 
 ![Version](https://img.shields.io/badge/version-8.00-blue)
