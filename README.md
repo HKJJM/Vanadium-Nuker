@@ -1,3 +1,5 @@
+<img width="1440" height="704" alt="Vanadium" src="https://github.com/user-attachments/assets/8faad0d5-d13a-4d50-997e-4d5446db05e8" />
+<img width="1440" height="704" alt="Vanadium" src="https://github.com/user-attachments/assets/8faad0d5-d13a-4d50-997e-4d5446db05e8" />
 # ⚡ Vanadium Nuker V12 - Discord Server Tool
 
 ![Version](https://img.shields.io/badge/version-8.00-blue)
@@ -75,3 +77,6 @@
 
 ### Our responsibility:
 We are not responsible for any misuse or damage to any server. We disclaim all liability 
+<img width="1440" height="704" alt="Vanadium" src="https://github.com/user-attachments/assets/736cfd27-abb0-4426-be6d-7b2486b79657" />
+<img width="1440" height="704" alt="Vanadium" src="https://github.com/user-attachments/assets/736cfd27-abb0-4426-be6d-7b2486b79657" />
+
