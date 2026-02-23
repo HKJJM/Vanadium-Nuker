@@ -1,4 +1,4 @@
-# ⚡ Vanadium Nuker V8 - Discord Server Nuker Tool
+# ⚡ Vanadium Nuker V12 - Discord Server Tool
 
 ![Version](https://img.shields.io/badge/version-8.00-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
@@ -24,7 +24,7 @@
 
 ## 🔍 Overview
 
-**Vanadium Nuker V8** is a powerful Discord server management and automation tool designed for stress testing, server administration, and security auditing purposes. With 25+ advanced features and multi-threading support, it provides comprehensive control over Discord servers.
+**Vanadium Nuker V12** is a powerful Discord server management and automation tool designed for stress testing, server administration, and security auditing purposes. With 25+ advanced features and multi-threading support, it provides comprehensive control over Discord servers.
 
 **System Status**: `ONLINE`
 **Core Version**: `2.3`
@@ -40,6 +40,7 @@
 - Unban all banned users
 - Give admin privileges to all members
 - Rename all members
+- Server Info
 
 ### 📁 **Channel Operations**
 - Create massive text channels
@@ -51,7 +52,6 @@
 
 ### 🎭 **Role Management**
 - Create new roles (random colors)
-- Delete all roles
 
 ### 💬 **Messaging Features**
 - Mass ping channels (with webhook support)
@@ -73,18 +73,5 @@
 ### 💣 **Nuclear Option**
 - `[0x90]` Complete server nuke (executes all destructive features)
 
----
-
-## ⚙️ Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- Discord Bot Token with appropriate permissions
-- Git (optional)
-
-### Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/vanadium-nuker.git
-cd vanadium-nuker
+### Our responsibility:
+We are not responsible for any misuse or damage to any server. We disclaim all liability 
